@@ -1,0 +1,41 @@
+.box1{
+   background-color: rgb(255, 255, 179);
+   width: 20%;
+   height: 700px;
+   margin: 2em 1em;
+}
+
+.box2{
+    background-color: rgb(246, 217, 163);
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em ;
+}
+
+.box3{
+   background-color: rgb(198, 255, 198);
+   width: 20%;
+   height: 700px;
+   margin: 2em 1em ;
+}
+
+.box4{
+    background-color: lightblue;
+    width: 20%;
+    height: 700px;
+    margin:2em 1em;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 300px;
+    margin:1em 2em ;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
